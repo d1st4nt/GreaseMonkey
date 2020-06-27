@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WebNovel Nav Arrows
-// @version      1.1.0
+// @version      1.1.1
 // @description  Bind arrow keys (left/right) to Previous/Next Chapter links
 // @author       PixelTech
 // @namespace    https://greasyfork.org/en/scripts/406139-webnovel-nav-arrows
@@ -33,7 +33,6 @@
 
     if (subdomain.includes("wuxiaworld")) {
         var l = document.querySelectorAll("next > a");
-        //var l = document.getElementsByClassName("next").getElementsByTagName('a');
         var i = l.length;
         for (i = 0; i < l.length; i++) {
             if (String(l[i]).includes(path)) {
@@ -42,7 +41,6 @@
             }
         }
         var l = document.querySelectorAll("prev > a");
-        //var l = document.getElementsByClassName("prev").getElementsByTagName('a');
         var i = l.length;
         for (i = 0; i < l.length; i++) {
             if (String(l[i]).includes(path)) {
