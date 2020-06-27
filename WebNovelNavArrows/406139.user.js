@@ -3,7 +3,7 @@
 // @version      1.1.0
 // @description  Bind arrow keys (left/right) to Previous/Next Chapter links
 // @author       PixelTech
-// @namespace   http://userscripts.org/scripts/show/406139
+// @namespace    http://userscripts.org/scripts/show/406139
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
