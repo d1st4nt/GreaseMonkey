@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         WebNovel Nav Arrows
-// @version      1.1.1
 // @description  Bind arrow keys (left/right) to Previous/Next Chapter links
+// @version      1.1.2
 // @author       PixelTech
+// @license      MIT
 // @namespace    https://greasyfork.org/en/scripts/406139-webnovel-nav-arrows
 // @match        *://*/*
 // @grant        none
