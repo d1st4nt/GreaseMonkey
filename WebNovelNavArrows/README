@@ -2,4 +2,4 @@ WebNovel Nav Arrows adds Left and Right arrow key binds to links for "Previous" 
 
 Designed to work on most legitimate (and illegitimate) webnovel sources.
 
-If you discover any sites it doesn't work with, please let me know.
+If you have any errors, check your console log and post an issue with the URL of the site, the debug messages, and an accurate description of the problem.
